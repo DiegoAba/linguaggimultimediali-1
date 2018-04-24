@@ -1,3 +1,3 @@
 # linguaggimultimediali
 Test in classe (Linguaggi Multimediali ABA)
-testo
+Domani è festa e forse posso sgobbare sulla tesi. 
